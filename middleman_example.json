@@ -1,0 +1,7 @@
+{
+	"_ABOUT":"To activate this file, rename it to middleman.json. Please review the settings below before doing so.",
+	"_UNPROMPTED":"C:/some/path/to/unprompted",
+	"_INIT":"[call 'C:/some/path/to/arbitrary/text/unprompted_init']",
+	"_BLACKLIST_TAGS":["banned tag","another banned tag","yet another banned tag"],
+	"film grain":{"threshold":0.1}
+}
